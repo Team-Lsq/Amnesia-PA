@@ -1,3 +1,1 @@
-https://massivebattlebotsfan.github.io/Amnesia-PA-MBF-dev/
-
-MBF dev fork
+https://Team-Lsq.github.io/Amnesia-PA
